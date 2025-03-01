@@ -31,7 +31,7 @@ Taskify is a powerful task management application inspired by Kanban boards. It 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/taskify.git
+   git clone https://github.com/johnpaulmanoza/taskify.git
    cd taskify
    ```
 
